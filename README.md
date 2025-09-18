@@ -1,4 +1,4 @@
-I'm [Your Name] 👋
+I'm Sai Sreedhar Reddy 👋
 A results-driven Data Scientist with 8 years of professional experience, including 5 years of hands-on expertise in AI/ML, Natural Language Processing (NLP), and Document Intelligence. My background also includes 3 years in construction design, giving me a unique perspective on cross-functional and client-facing environments.
 
 I specialize in designing, developing, and deploying end-to-end machine learning solutions aligned with business goals in regulated domains such as healthcare, finance, and the service sector.
